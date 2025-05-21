@@ -9,7 +9,7 @@ from telegram.ext import (
 from dotenv import load_dotenv
 
 load_dotenv()
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("7868650608:AAGKQgCpc6rM-W3Fsq-WbQPvfkSx7YK-PNY")
 
 user_configs = {}
 
